@@ -10,7 +10,7 @@ Objective: Monitor AWS account spending and alert the administrator via email wh
 
     Logic: A CloudWatch Alarm set in us-east-1 with a threshold of $1.00 USD.
 
-    Notifications: Integrated with Amazon SNS to push alerts to amaysajwan055@gmail.com.
+    Notifications: Integrated with Amazon SNS to push alerts to the specified email account
 
 3. Component 2: Automated Backup Engine
 
